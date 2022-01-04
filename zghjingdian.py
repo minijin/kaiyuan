@@ -1,18 +1,3 @@
-﻿# -*- coding: utf-8 -*-
-"""
-Created on Thu Sep 26 09:19:49 2019
-
-@author: lenovo
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Sep 25 11:55:28 2019
-
-@author: lenovo
-"""
-
-
 import scrapy
 import re
 import time
